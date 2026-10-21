@@ -1,3 +1,7 @@
+# Jacob Clark Engineering Portfolio — v6
+
+Renamed the public project title to PC Build for Friend. Existing project URL and asset filenames are unchanged.
+
 # Jacob Clark Engineering Portfolio — v5
 
 The About page has been removed. Background and internship interests are summarized on the homepage. Navigation is Home, Projects, Resume. The Resume page remains a placeholder until the final PDF is approved.
