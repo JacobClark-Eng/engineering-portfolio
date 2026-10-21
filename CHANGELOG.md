@@ -1,6 +1,11 @@
 # Change Log — Jacob Clark Engineering Portfolio
 
 ## v7 — October 21, 2026
+- Replaced the resume placeholder with an embedded PDF viewer, a Download Resume button, and an Open PDF link.
+- Resume page expects `resume.pdf` at the repository root; PDF upload is a separate required step.
+
+
+## v7 — October 21, 2026
 - Added an embedded PDF viewer and Download Resume/Open PDF links to the Resume page.
 - PDF file `resume.pdf` must be added to the repository root for the links to work.
 
