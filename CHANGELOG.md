@@ -1,5 +1,11 @@
 # Change Log — Jacob Clark Engineering Portfolio
 
+## v6 — October 21, 2026
+- Renamed the friend PC project to “PC Build for Friend” on the homepage, project listing, and project detail page.
+- Removed the friend’s name from public-facing project descriptions and image alternative text.
+- Preserved existing project URL and image filenames to avoid broken links.
+
+
 ## v5 — October 21, 2026
 - Removed the separate About page and its navigation links throughout the site.
 - Reworked the homepage introduction to identify UConn MEM studies and Summer 2027 internship interests.
