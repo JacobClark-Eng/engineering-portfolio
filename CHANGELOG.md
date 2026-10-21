@@ -1,5 +1,10 @@
 # Change Log — Jacob Clark Engineering Portfolio
 
+## v7 — October 21, 2026
+- Added an embedded PDF viewer and Download Resume/Open PDF links to the Resume page.
+- PDF file `resume.pdf` must be added to the repository root for the links to work.
+
+
 ## v6 — October 21, 2026
 - Renamed the friend PC project to “PC Build for Friend” on the homepage, project listing, and project detail page.
 - Removed the friend’s name from public-facing project descriptions and image alternative text.
