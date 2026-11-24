@@ -1,5 +1,8 @@
 # Change Log — Jacob Clark Engineering Portfolio
 
+## November 24, 2026 — IV photo gallery preparation
+- Added cover and gallery references for authentic IV project photographs; image files require upload to assets.
+
 ## November 24, 2026 — IV Training Station
 - Added independent IV Training Station project as the first featured project on Home and Projects.
 - Documented design, manufacturing, reinforcement and functional checks; trainee feedback pending.
