@@ -1,5 +1,10 @@
 # Change Log — Jacob Clark Engineering Portfolio
 
+## November 24, 2026 — IV Training Station
+- Added independent IV Training Station project as the first featured project on Home and Projects.
+- Documented design, manufacturing, reinforcement and functional checks; trainee feedback pending.
+- Preserved existing projects and resume.
+
 ## v7 — October 21, 2026
 - Replaced the resume placeholder with an embedded PDF viewer, a Download Resume button, and an Open PDF link.
 - Resume page expects `resume.pdf` at the repository root; PDF upload is a separate required step.
